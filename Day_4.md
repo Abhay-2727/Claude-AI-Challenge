@@ -27,3 +27,5 @@ This helps improve accuracy and makes the output clearer and more reliable.
 It solves problems through structured, step-by-step reasoning instead of directly generating an answer. 
 The model interprets the input, breaks it into logical steps and produces the final output after reasoning. 
 This process can be refined or repeated to improve accuracy.
+
+✅ Tool of the Day:  Capsule Hub
