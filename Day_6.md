@@ -8,7 +8,8 @@
 
 ✅ Difference: 
 
-<img width="836" height="670" alt="Screenshot 2026-06-06 150610" src="https://github.com/user-attachments/assets/aa4f8226-ee57-4ea3-aadd-0673c737ea69" />
+<img width="1536" height="1024" alt="ChatGPT Image Jun 6, 2026, 03_36_27 PM" src="https://github.com/user-attachments/assets/803e4482-b848-4cf5-8fc1-800832dc7cbf" />
+
 
 
 ✅ Today i learned why it is necessary to optimize a resume.
