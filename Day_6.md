@@ -6,11 +6,12 @@
 
 <img width="797" height="892" alt="Screenshot 2026-06-06 150641" src="https://github.com/user-attachments/assets/19c2803e-6047-4e52-ba98-2c375c9d9dec" />
 
+✅ Difference: 
 
-Difference: 
 <img width="836" height="670" alt="Screenshot 2026-06-06 150610" src="https://github.com/user-attachments/assets/aa4f8226-ee57-4ea3-aadd-0673c737ea69" />
 
-Today i learned why it is necessary to optimize a resume.
+
+✅ Today i learned why it is necessary to optimize a resume.
 A resume is often your first interaction with a recruiter. ATS systems scan resumes before a human sees them. Claude can help improve formatting, 
 readability, keyword optimization, and recruiter appeal while keeping every claim truthful.
 
