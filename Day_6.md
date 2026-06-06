@@ -4,7 +4,7 @@
 
 ✅ Optimized resume: 
 
-<img width="707" height="885" alt="Screenshot 2026-06-06 150416" src="https://github.com/user-attachments/assets/1c63a8b1-93ed-447f-bdf2-86e28332bae9" />
+<img width="797" height="892" alt="Screenshot 2026-06-06 150641" src="https://github.com/user-attachments/assets/19c2803e-6047-4e52-ba98-2c375c9d9dec" />
 
 
 Difference: 
