@@ -6,7 +6,7 @@
 
 ✅ HTML File:
 
-
+[index.html](https://github.com/user-attachments/files/28761204/index.html)
 
 ✅ Learning: 
 Claude Artifacts allow you to generate fully interactive applications instead of simple text outputs. 
