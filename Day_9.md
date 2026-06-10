@@ -2,6 +2,11 @@
 
 [nutri-scope.html](https://github.com/user-attachments/files/28761586/nutri-scope.html)
 
+Enchanced Version:
+
+[nutri-scope.html](https://github.com/user-attachments/files/28790348/nutri-scope.html)
+
+
 
 ✅ Screenshots
 
