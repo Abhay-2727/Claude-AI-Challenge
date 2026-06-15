@@ -2,6 +2,13 @@
 
 [abhay_kumar_vedic_reading.html](https://github.com/user-attachments/files/28952138/abhay_kumar_vedic_reading.html)
 
+💡 Some Screenshots:
+
+<img width="1031" height="857" alt="Screenshot 2026-06-15 162217" src="https://github.com/user-attachments/assets/2b2c48ae-558e-4679-9d1d-f642fbad238e" />
+
+<img width="1017" height="852" alt="Screenshot 2026-06-15 162352" src="https://github.com/user-attachments/assets/892c48dc-8885-4e2b-a473-337c65e2fbec" />
+
+
 💡 Generated Report:
 Your three standout chart facts:
 Mercury sits in its own sign in your Lagna — you are naturally one of the sharpest communicators and analytical minds of your generation. 
