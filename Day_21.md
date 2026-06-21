@@ -13,7 +13,20 @@ HTML File:
 
 [digital_footprint_dashboard.html](https://github.com/user-attachments/files/29171229/digital_footprint_dashboard.html)
 
-Learning:
+📚 learning from today's build:
+
+The quality of AI analysis depends heavily on how you define boundaries.
+
+The prompt explicitly separated:
+
+✅ Facts
+
+✅ Estimates
+
+This prevented Claude from making unsupported claims and transformed the dashboard from a flashy visualization into a trustworthy intelligence report.
+Building AI isn't just about getting answers.
+It's about teaching the model where certainty ends and inference begins.
+And that may be one of the most valuable prompt engineering lessons I've learned so far.
 
 
 
